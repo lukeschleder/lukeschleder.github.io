@@ -1,8 +1,8 @@
 #container {
 	height: 100%;
+	max-width: 1000px;
 	margin: auto;
 	text-align: left;
-	width: 100%;
 	background-color: light green;
 }
 
