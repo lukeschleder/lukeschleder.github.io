@@ -9,7 +9,8 @@
 	background-color: olive;
 }
 
-#contact-information 
+#contact-information {
+	h1  {margin-bottom: -10px}
 	
 	
 	
