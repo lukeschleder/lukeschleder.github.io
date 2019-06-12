@@ -1,7 +1,7 @@
 body {
 	height: 100%;
 	margin: 20px;
-	text-align: right;
+	text-align: left;
 	width: 100%;
 }
 * {
@@ -9,6 +9,6 @@ body {
   margin: auto;
 }
 p {
-  color: black;
+  color: green;
   }
 
