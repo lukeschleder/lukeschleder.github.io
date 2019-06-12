@@ -1,13 +1,11 @@
-body {
+#container {
 	height: 100%;
 	margin: auto;
 	text-align: left;
 	width: 100%;
+	background-color: light green;
 }
-* {
-  max-width: 1000px;
-  margin: auto;
-}
+
 p {
   color: green;
   }
