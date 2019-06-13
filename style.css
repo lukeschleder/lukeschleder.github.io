@@ -1,13 +1,13 @@
 #container {
-	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-top: 15px;
+	margin-left: 150px;
+	margin-right: 150px;
 	padding: 10px 150px 10px 150px;
 	
 	text-align: left;
 	border-radius: 15px;
 	background-color: olive;
-	font-family: Bookman, sans-serif;
+	font-family: arial, sans-serif;
 }
 
 #content-contact {
