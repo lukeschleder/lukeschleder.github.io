@@ -11,9 +11,9 @@
 }
 
 
-h1  	font-size: 55px;
+h1  	{font-size: 55px;
 	margin-bottom: -15px;
-	
+}
 
 
 h2	{margin-bottom: -2px;
